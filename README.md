@@ -29,8 +29,12 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
+<div align="center">
+
 [![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+  
 <h3 align="center">💻 Side Projects 💻</h3>
 
 #### Python Open Source Projects
