@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
+[![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">💻 Side Projects 💻</h3>
 
 #### Python Open Source Projects
@@ -42,8 +44,6 @@
 
 <div align="center">
 
-[![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <a href="https://wooiljeong.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/wooil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
 </div>
