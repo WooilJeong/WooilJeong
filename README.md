@@ -27,6 +27,7 @@ will take you to the corresponding official document site.)
 [![Badge](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/python-api-reference/) 
 [![Badge](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/) 
 <br>
+[![Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=R&logoColor=white)](https://go.dev/doc/)  
 [![Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/other-docs.html) 
 [![Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white)](https://dev.mysql.com/doc/) 
 [![Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://dev.mysql.com/doc/) 
