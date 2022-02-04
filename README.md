@@ -40,7 +40,7 @@ will take you to the corresponding official document site.)
 
 <div align="center">
 
-[![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
