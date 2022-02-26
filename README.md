@@ -9,7 +9,7 @@
 
 <h3 align="center">🛠 Skills 🛠</h3>
 <p align="center">
-The following are some of the techniques I use most now, <br>
+The following are some of the skills I use most now, <br>
 but they are just a list of tools.<br>
 (Clicking each of the following logos <br>
 will take you to the corresponding official document site.)
