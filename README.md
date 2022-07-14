@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WooilJeong&fontSize=70&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WooilJeong&fontSize=70&animation=twinkling) -->
 
 <div align=center>
 
@@ -6,14 +6,37 @@
 
 </div>
 
+<div align="center">
+
+[![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
+
+
+<!-- <h3 align="center">✨ Interest ✨</h3>
+ -->
+
+
+
+<h3 align="center">💻 Open Source Projects 💻</h3>
+
+## [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
+PublicDataReader is a data inquiry library that helps you to easily use data-related OpenAPI services provided by organizations such as public data portals and Seoul Open Data Plaza with Python.
+
+## [CaptchaCracker(Eng)](https://github.com/WooilJeong/CaptchaCracker) [CaptchaCracker(Kor)](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
+CaptchaCracker is an open source Python library that provides functions to create and apply deep learning models for Captcha Image recognition.
+
+## [PyKakao](https://github.com/WooilJeong/PyKakao)
+PyKakao is a Python Client that can use the local API provided by kakao developers.
+
+## [PyNaver](https://github.com/WooilJeong/PyNaver)
+PyNaver is a Python Client that can use the open API provided by naver developers.
+
+
 
 <h3 align="center">🛠 Skills 🛠</h3>
-<p align="center">
-The following are some of the skills I use most now, <br>
-but they are just a list of tools.<br>
-(Clicking each of the following logos <br>
-will take you to the corresponding official document site.)
-</p>
 
 <div align="center">
 
@@ -38,37 +61,7 @@ will take you to the corresponding official document site.)
 
 </div>
 
-<div align="center">
-
-[![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-<h3 align="center">✨ Interest ✨</h3>
-
-- Developing data-related open sources
-- Automating business using Python
-- Quant | Value Investing
-- Reading about Big History
-- Creating a function like this:
-    - <img src="https://latex.codecogs.com/gif.latex?f(discomfort)=revenue"/> 
-
-
-<h3 align="center">💻 Side Projects 💻</h3>
-
-#### Python Open Source Projects
-- [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
-    - PublicDataReader is a data inquiry library that helps you to easily use data-related OpenAPI services provided by organizations such as public data portals and Seoul Open Data Plaza with Python.
-- [CaptchaCracker(Eng)](https://github.com/WooilJeong/CaptchaCracker) [CaptchaCracker(Kor)](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
-  - CaptchaCracker is an open source Python library that provides functions to create and apply deep learning models for Captcha Image recognition.
-- [PyKakao](https://github.com/WooilJeong/PyKakao)
-  - PyKakao is a Python Client that can use the local API provided by kakao developers.
-- [PyNaver](https://github.com/WooilJeong/PyNaver)
-  - PyNaver is a Python Client that can use the open API provided by naver developers.
-
-
-<h3 align="center">🔗 Wooil Jeong 🔗</h3>
+<h3 align="center">🔗 More 🔗</h3>
 
 <div align="center">
 
