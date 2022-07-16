@@ -1,40 +1,24 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WooilJeong&fontSize=70&animation=twinkling) -->
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwooiljeong&count_bg=%23FF5F5F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-<div align="center">
-
-[![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-
-
 <!-- <h3 align="center">✨ Interest ✨</h3>
  -->
 
-
-
 <h3 align="center">💻 Open Source Projects 💻</h3>
 
-## [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
-PublicDataReader is a data inquiry library that helps you to easily use data-related OpenAPI services provided by organizations such as public data portals and Seoul Open Data Plaza with Python.
 
-## [CaptchaCracker(Eng)](https://github.com/WooilJeong/CaptchaCracker) [CaptchaCracker(Kor)](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
-CaptchaCracker is an open source Python library that provides functions to create and apply deep learning models for Captcha Image recognition.
+### [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
+**PublicDataReader** is a data inquiry library that helps you to easily use data-related OpenAPI services provided by organizations such as public data portals and Seoul Open Data Plaza with Python.
 
-## [PyKakao](https://github.com/WooilJeong/PyKakao)
-PyKakao is a Python Client that can use the local API provided by kakao developers.
+### [CaptchaCracker(Eng)](https://github.com/WooilJeong/CaptchaCracker) [CaptchaCracker(Kor)](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
+**CaptchaCracker** is an open source Python library that provides functions to create and apply deep learning models for Captcha Image recognition.
 
-## [PyNaver](https://github.com/WooilJeong/PyNaver)
-PyNaver is a Python Client that can use the open API provided by naver developers.
+### [PyKakao](https://github.com/WooilJeong/PyKakao)
+**PyKakao** is a Python Client that can use the local API provided by kakao developers.
 
+### [PyNaver](https://github.com/WooilJeong/PyNaver)
+**PyNaver** is a Python Client that can use the open API provided by naver developers.
 
+<br>
 
 <h3 align="center">🛠 Skills 🛠</h3>
 
@@ -61,10 +45,28 @@ PyNaver is a Python Client that can use the open API provided by naver developer
 
 </div>
 
+<br>
+
+<div align="center">
+
+[![WooilJeong github stats](https://github-readme-stats.vercel.app/api?username=wooiljeong&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<br>
+
 <h3 align="center">🔗 More 🔗</h3>
 
 <div align="center">
 
 <a href="https://wooiljeong.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/wooil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+</div>
+
+<br>
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwooiljeong&count_bg=%23FF5F5F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
