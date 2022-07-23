@@ -9,14 +9,15 @@
 ### [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
 **PublicDataReader** is a data inquiry library that helps you to easily use data-related OpenAPI services provided by organizations such as public data portals and Seoul Open Data Plaza with Python.
 
-### [CaptchaCracker(Eng)](https://github.com/WooilJeong/CaptchaCracker) [CaptchaCracker(Kor)](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
+### [CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker)
 **CaptchaCracker** is an open source Python library that provides functions to create and apply deep learning models for Captcha Image recognition.
+
+### [PyNaver](https://github.com/WooilJeong/PyNaver)
+**PyNaver** is a Python Client that can use the open API provided by naver developers.
 
 ### [PyKakao](https://github.com/WooilJeong/PyKakao)
 **PyKakao** is a Python Client that can use the local API provided by kakao developers.
 
-### [PyNaver](https://github.com/WooilJeong/PyNaver)
-**PyNaver** is a Python Client that can use the open API provided by naver developers.
 
 <br>
 
