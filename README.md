@@ -18,7 +18,7 @@
 **PyKakao** is a Python library that makes it easy to use APIs provided by the Kakao Developer Center. Easy to install using pip, no need to write cumbersome web scraping scripts. Through PyKakao, you can easily use functions such as address inquiry, administrative district information inquiry by coordinates, address inquiry by coordinates, coordinate system conversion, place inquiry by keyword, and place inquiry by category. However, in order to use PyKakao normally, the REST API key issued by adding the kakao developers application is absolutely necessary.
 
 ## [tistory](https://github.com/WooilJeong/tistory)
-**tistory** 
+**tistory** is a Python library that makes it easy to use the Tistory blog open API with Python. Through the tistory library, you can easily access blog information search, article list search, read article, write article, edit article, category list lookup, recent comment list lookup, comment list lookup, write comment, edit comment, and delete comment function. However, in order to use the tistory library normally, you must complete the application for use of the tistory open API service.
 
 
 <br>
