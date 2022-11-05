@@ -10,11 +10,9 @@
 </div>
 
 
-<div align="center">
-
-<a href="https://wooiljeong.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/wooil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
-</div>
+<!-- <div align="center">
+<a href="https://wooiljeong.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</div> -->
 
 <div align=center>
 
